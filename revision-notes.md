@@ -17,3 +17,4 @@ Use this file to record changes, updates, and revision details for your portfoli
 - `git log --oneline -n 5`
 - `git remote -v`
 - `git branch -vv`
+- `git push origin main`
